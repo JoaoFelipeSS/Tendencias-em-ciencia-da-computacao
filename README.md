@@ -85,8 +85,3 @@ Recursos e referências
 Licença
 -------
 Este repositório está disponível sob a licença MIT (ou outra a ser escolhida pelo professor). Consulte o arquivo LICENSE.md.
-
-Contato
--------
-Para dúvidas e contribuições: maintainer@exemplo.com (substitua pelo e-mail real)
-GitHub: https://github.com/JoaoFelipeSS/Tendencias-em-ciencia-da-computacao
