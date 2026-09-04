@@ -192,3 +192,13 @@ Para verificar a compreensão
 
 1. Qual é a principal diferença entre JavaScript e TypeScript?
 2. Por que o TypeScript pode ser vantajoso em um projeto profissional desenvolvido por várias pessoas?
+_______________________________________________________________________________________________
+| Critério                 | Prompt 1                     | Prompt 2                          |
+| -------------------      | ---------------------------- | ----------------------------------|
+| Clareza                  |             sim              |             sim                   |
+| Precisão                 |             sim              |                                   |
+| Relevância               |           pouca              |                                   |
+| Organização              |           pouca              |                                   |
+| Adequação ao público     |             sim              |                                   |
+| Atendimento ao objetivo  |             sim              |                                   |
+| Utilidade prática        |           pouca              |                                   |
