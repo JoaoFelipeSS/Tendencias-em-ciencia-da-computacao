@@ -2,9 +2,9 @@
 
 ## Identificação
 
-- **Nome:** João Felipe
-- **Turma:**
-- **Data:** 10/09/2026
+- **Nomes:** João Felipe soares silva e Luís Fernando Figueiredo Frizzo
+- **Turma:** Tendências em Ciência da Computação - 2267195 
+- **Data:** 09/09/2026
 - **Ferramenta de IA utilizada:** ChatGPT
 
 ---
