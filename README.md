@@ -27,7 +27,7 @@ Projeto da **Unidade 4**: um agente de IA que tira dúvidas acadêmicas dos estu
 - Bateria automatizada com **50 casos de teste em 7 grupos**: **50 de 50 aprovados**
 - Evolução do chatbot low-code feito no Botpress na Unidade 3
 
-**[Ver o projeto completo](Unidade%204%20-%20Aplicações%20e%20Limitações/)**
+**[Ver o projeto completo](Unidade%204%20-%20Aplicações%20e%20Limitações/)** · **[Entregas do Projeto Final (novembro)](Unidade%204%20-%20Aplicações%20e%20Limitações/ENTREGAS_PROJETO_FINAL.md)**
 
 ---
 
